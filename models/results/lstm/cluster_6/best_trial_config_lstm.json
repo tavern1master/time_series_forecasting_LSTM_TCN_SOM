@@ -1,0 +1,1 @@
+{"seq_length": 12, "target_size": 1, "hidden_size": 108, "n_layers": 2, "dropout": 0.2, "lr": 0.21965712169007426, "batch_size": 64}

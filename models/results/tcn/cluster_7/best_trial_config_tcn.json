@@ -1,0 +1,1 @@
+{"seq_length": 48, "target_size": 7, "kernel_size": 2, "dropout": 0.25, "lr": 0.014265348050451808, "batch_size": 128, "mode": "tcn"}
